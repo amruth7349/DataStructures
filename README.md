@@ -9,5 +9,6 @@ Here is the overview of the problems<br/>
   * [Turotial](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/) <br/>
   * Codechef
     * [Dont get wet](https://www.codechef.com/problems/BIGOF01) | [Solution](dsu/dontgetwet.cpp)
+    * [Dish owner](https://www.codechef.com/problems/DISHOWN) | [Solution](dsu/dishowner.cpp)
 </details>
 
