@@ -4,12 +4,12 @@ using namespace std;
 #define vll vector<ll>
 #define pb push_back
 
-bool visited[100];
-vll adj[100];
+bool visited[100001];
+vll adj[100001];
 
 void initialize()
 {
-    for(ll i=0;i<100;i++)
+    for(ll i=0;i<100001;i++)
     {
         visited[i]=false;
         adj[i].clear();
