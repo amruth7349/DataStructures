@@ -7,13 +7,13 @@ Here is the overview of the problems<br/>
   
   ## Graphs
   * Spoj
-    * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) | [Solution](spoj/buglife.cpp)
-    * [CAM5](https://www.spoj.com/problems/CAM5/) | [Solution](spoj/cam5.cpp)
-    * [ELEVTBL](https://www.spoj.com/problems/ELEVTRBL/) | [Solution](spoj/elevarottrouble.cpp)
-    * [HIGHWAYS](https://www.spoj.com/problems/HIGHWAYS/) | [Solution](spoj/highways.cpp)
-    * [MICEMAZE](https://www.spoj.com/problems/MICEMAZE/) | [Solution](spoj/micemaze.cpp)
-    * [ROBOTGRI](https://www.spoj.com/problems/ROBOTGRI/) | [Solution](spoj/robotsongrid.cpp)
-    * [TRVCOST](https://www.spoj.com/problems/TRVCOST/) | [Solution](spoj/trvcost.cpp)
+    * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) | [Solution](graphs/spoj/buglife.cpp)
+    * [CAM5](https://www.spoj.com/problems/CAM5/) | [Solution](graphs/spoj/cam5.cpp)
+    * [ELEVTBL](https://www.spoj.com/problems/ELEVTRBL/) | [Solution](graphs/spoj/elevarottrouble.cpp)
+    * [HIGHWAYS](https://www.spoj.com/problems/HIGHWAYS/) | [Solution](graphs/spoj/highways.cpp)
+    * [MICEMAZE](https://www.spoj.com/problems/MICEMAZE/) | [Solution](graphs/spoj/micemaze.cpp)
+    * [ROBOTGRI](https://www.spoj.com/problems/ROBOTGRI/) | [Solution](graphs/spoj/robotsongrid.cpp)
+    * [TRVCOST](https://www.spoj.com/problems/TRVCOST/) | [Solution](graphs/spoj/trvcost.cpp)
  </details>
   
 
