@@ -27,6 +27,7 @@ Here is the overview of the problems<br/>
     * [Cyclic Components](https://codeforces.com/problemset/problem/977/E) | [Solution](graphs/codeforces/cycliccomponents.cpp)
     * [Edgy trees](https://codeforces.com/problemset/problem/1139/C) | [Solution](graphs/codeforces/edgytrees.cpp)
     * [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | [Solution](graphs/codeforces/secretpasswords.cpp)
+    * [Solve the maze](https://codeforces.com/contest/1365/problem/D) | [Solution](graphs/codeforces/secretpasswords.cpp)
  </details>
   
 
