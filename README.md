@@ -29,6 +29,9 @@ Here is the overview of the problems<br/>
     * [Edgy trees](https://codeforces.com/problemset/problem/1139/C) | [Solution](graphs/codeforces/edgytrees.cpp)
     * [Secret Passwords](https://codeforces.com/problemset/problem/1263/D) | [Solution](graphs/codeforces/secretpasswords.cpp)
     * [Solve the maze](https://codeforces.com/contest/1365/problem/D) | [Solution](graphs/codeforces/Solvethemaze.cpp)
+  * Codechef
+    * [Fire Escape Routes](https://www.codechef.com/LRNDSA08/problems/FIRESC) | [Solution](graphs/Codechef/FIRESC.cpp)
+    * [Mayhem Again](https://www.codechef.com/LRNDSA08/problems/MARLA) | [Solution](graphs/Codechef/Mayhem.cpp)
  </details>
   
 
