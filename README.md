@@ -41,7 +41,7 @@ Here is the overview of the problems<br/>
     
         
    ## Segment Trees
-   * [Basic](segment trees/segtree.cpp)
-   * [Flipping coins](https://www.codechef.com/problems/FLIPCOIN) | [Solution](segment trees/segtree.cpp)
+   * [Basic](segmenttrees/segtree.cpp)
+   * [Flipping coins](https://www.codechef.com/problems/FLIPCOIN) | [Solution](segmenttrees/segtree.cpp)
 
 
