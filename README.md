@@ -1,10 +1,7 @@
 # DataStructures
 Welcome!!!<br/>
 In this repo I will upload the problems that I solved from various programming platforms based on datastructures.<br/>
-Here is the overview of the problems<br/>
-<details>
-  <summary>Graphs</summary>
-  
+Here is the overview of the problems<br/> 
   ## Graphs
   * Standard Problems
     * [bfs](https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/) | [Implementation](graphs/bfs.cpp)
@@ -32,16 +29,14 @@ Here is the overview of the problems<br/>
   * Codechef
     * [Fire Escape Routes](https://www.codechef.com/LRNDSA08/problems/FIRESC) | [Solution](graphs/Codechef/FIRESC.cpp)
     * [Mayhem Again](https://www.codechef.com/LRNDSA08/problems/MARLA) | [Solution](graphs/Codechef/Mayhem.cpp)
- </details>
+
   
 
-<details>
-  <summary>DSU</summary>
-  
+
   ## Disjoint Set Union
   * [Reference](https://www.hackerearth.com/practice/notes/disjoint-set-union-union-find/) <br/>
   * Codechef
     * [Dont get wet](https://www.codechef.com/problems/BIGOF01) | [Solution](dsu/dontgetwet.cpp)
     * [Dish owner](https://www.codechef.com/problems/DISHOWN) | [Solution](dsu/dishowner.cpp)
-</details>
+
 
