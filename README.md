@@ -38,5 +38,10 @@ Here is the overview of the problems<br/>
   * Codechef
     * [Dont get wet](https://www.codechef.com/problems/BIGOF01) | [Solution](dsu/dontgetwet.cpp)
     * [Dish owner](https://www.codechef.com/problems/DISHOWN) | [Solution](dsu/dishowner.cpp)
+    
+        
+   ## Segment Trees
+   * [Basic](segment trees/segtree.cpp)
+   * [Flipping coins](https://www.codechef.com/problems/FLIPCOIN) | [Solution](segment trees/segtree.cpp)
 
 
