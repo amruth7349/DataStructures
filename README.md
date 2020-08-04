@@ -8,6 +8,12 @@ Here is the overview of the problems<br/>
     * [dfs](https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/) | [Implementation](graphs/dfs.cpp)
     * [djikstra](https://www.hackerearth.com/practice/algorithms/graphs/shortest-path-algorithms/tutorial/) | [Implementation](graphs/djikstra.cpp)
     * [kruskal](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/) | [Implementation](graphs/kruskal.cpp)
+  
+  * Geeks for Geeks
+    * [cycle detection in undirected graphs](graphs/cycledetectiondir.cpp)
+    * [cycle detection in directed graphs](graphs/cycledetectionundir.cpp)
+    * [topological sort](graphs/topologicalsort.cpp)
+    * [no of islands](graphs/noofislands.cpp)
     
   * Spoj
     * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) | [Solution](graphs/spoj/buglife.cpp)
