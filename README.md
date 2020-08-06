@@ -14,6 +14,10 @@ Here is the overview of the problems<br/>
     * [cycle detection in directed graphs](graphs/cycledetectionundir.cpp)
     * [topological sort](graphs/topologicalsort.cpp)
     * [no of islands](graphs/noofislands.cpp)
+    * [djikstraadjmatrix] | (graphs/djikstraadjmatrix.cpp)
+    * [findpath] | (graphs/findpath.cpp)
+    * [findwhetherpath] | (graphs/findwheteherpath.cpp)
+    * [minimumcostpath] | (graphs/minimumcostpath.cpp)
     
   * Spoj
     * [BUGLIFE](https://www.spoj.com/problems/BUGLIFE/) | [Solution](graphs/spoj/buglife.cpp)
