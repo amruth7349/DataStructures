@@ -28,6 +28,7 @@ Here is the overview of the problems<br/>
     * [ROBOTGRI](https://www.spoj.com/problems/ROBOTGRI/) | [Solution](graphs/spoj/robotsongrid.cpp)
     * [TRVCOST](https://www.spoj.com/problems/TRVCOST/) | [Solution](graphs/spoj/trvcost.cpp)
     * [Critical Edges](https://www.spoj.com/problems/EC_P/) | [Solution](graphs/spoj/criticaledges.cpp)
+    * [LCA](https://www.spoj.com/problems/LCA/) | [Solution](graphs/lowestcommonancestor.cpp)
   * Codeforces
     * [Journey](https://codeforces.com/problemset/problem/839/C) | [Solution](graphs/codeforces/journey.cpp)
     * [NP-HARD problem](https://codeforces.com/problemset/problem/687/A) | [Solution](graphs/codeforces/NP-Hard.cpp)
